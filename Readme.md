@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Яна Чекинская](https://up.htmlacademy.ru/javascript/20/user/1184213).
-* Наставник: `Неизвестно`.
+* Наставник: [Елена Грицук(https://htmlacademy.ru/profile/id199079)].
 
 ---
 
